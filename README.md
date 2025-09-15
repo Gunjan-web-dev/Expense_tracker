@@ -26,10 +26,6 @@ JavaScript (Vanilla JS) – Logic for transactions and balance
 ├── style.css    # Styling file  
 ├── main.js      # JavaScript logic  
 
-📷 Screenshots
-
-(Add screenshots here if you want – e.g., of the app running in browser)
-
 ⚙️ How to Use
 
 Clone or download this repository.
