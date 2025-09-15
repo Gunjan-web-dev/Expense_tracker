@@ -38,5 +38,8 @@ function addTransaction(){
 
         bal = bal + amount;
         totalBal.innerHTML = `Balance : ${bal}`;
+        document.getElementById("desc").value = "";
+        document.getElementById("amount").value = "";
+        document.getElementById("date").value = "";
     }
 }
